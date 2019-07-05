@@ -1,0 +1,139 @@
+/* 
+  -----------------------------------
+  Tree Menu Magic 3
+  by Project Seven Development
+  www.projectseven.com
+  Style Theme: 10 - Classic
+  -----------------------------------
+*/
+
+.p7TM3-10 {
+	font-size: inherit;
+	zoom: 1;
+	font-family: "Segoe UI", "Gill Sans", Optima, "Droid Sans", sans-serif;
+}
+.p7TM3-10:after {
+	content: "\0020";
+	font-size: 0px;
+	display: inline;
+	overflow: hidden;
+	line-height: 1;
+}
+.p7TM3-10.outer-shadow {
+	box-shadow: 0px 0px 20px rgba(0,0,0,.5);
+	padding: 10px;
+}
+.p7TM3-10.outer-shadow.rounded-corners {
+	border-radius: 4px;
+}
+.p7TM3-10 ul {
+	margin: 0;
+	padding: 0;
+}
+.p7TM3-10 ul div {
+	padding-left: 4px;
+}
+.p7TM3-10 ul ul {
+	padding: 0px;
+	border-left-width: 1px;
+	border-left-style: dotted;
+	border-left-color: #FFF;
+}
+.p7TM3-10 ul ul ul {
+	margin-bottom: 0px;
+	padding: 0px;
+}
+.p7TM3-10 li {
+	list-style-type: none;
+	margin: 0;
+}
+.p7TM3-10 ul ul li {
+	padding-left: .25em;
+
+}
+.p7TM3-10 ul a {
+	color: #FFF;
+	display: block;
+	padding: 2px 6px 2px 14px;
+	text-decoration: none;
+}
+.p7TM3-10 ul a:hover, .p7TM3-10 ul a:focus {
+	color: #CC9E00;
+	outline: none;
+}
+.p7TM3-10 ul ul a {
+	font-size: .9em;
+	border: none;
+}
+.p7TM3-10 ul ul a:hover, .p7TM3-10 ul ul a:focus {
+	border: none;
+}
+.p7TM3-10 a.trig_closed {
+	background-image: url(img/tm3_plus_white.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+.p7TM3-10 a.trig_open {
+	background-image: url(img/tm3_minus_white.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	border-bottom-color: transparent;
+	color: #FFF !important;
+	/*text-shadow: -1px 0px 0px #000;*/
+}
+.p7TM3-10 a.current_mark {
+	text-shadow: none !important;
+	font-weight: bold;
+}
+.p7TM3-10 ul ul a.current_mark {
+}
+.p7TM3-10_toggle_all {
+	margin: 0 0 12px 0;
+	display: block;
+	font-size: .75em;
+	text-transform: uppercase;
+}
+.p7TM3-10_toggle_all a {
+	color: #FFF;
+}
+.p7TM3-10_toggle_all a:hover, .p7TM3-10_toggle_all a:focus, .p7TM3-10_toggle_all a:active {
+	color: #C60;
+	outline: none;
+	background: none;
+}
+/*Toolbar for Smartphones to Hide or Show entire menu*/
+.p7TM3-toolbar {
+	display: none;
+}
+/*IE10 Kill Default Active Background*/
+.p7TM3-10 a:active {
+	background-color: transparent;
+}
+/*Smartphone Menu Presentation*/
+@media only screen and (min-width: 0px) and (max-width: 700px) {
+.p7TM3-10_toggle_all {
+	display: none;
+}
+.p7TM3-10.responsive .p7TM3-toolbar {
+	position: relative;
+	z-index: 999;
+	display: block;
+	text-align: right;
+	padding: 0px 4px;
+	cursor: pointer;
+}
+.p7TM3.responsive ul.closed {
+	display: none;
+}
+.p7TM3.responsive ul.opened {
+	display: block;
+}
+.p7TM3-10.responsive .p7TM3-toolbar img {
+	border: none;
+	vertical-align: bottom;
+	padding: 4px;
+	background-color: #CCC;
+	border-radius: 4px;
+}
+/*END MEDIA QUERY - DO NOT REMOVE CURLY BRACE BELOW*/
+}

@@ -1,0 +1,1064 @@
+news
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+ 
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+
+<base href="//www.hairtransplantnetwork.com" />
+
+
+
+
+
+<!-- InstanceBegin template="/Templates/new_design_full_page.dwt.asp" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<link rel="stylesheet" href="bootstrap/3/css/bootstrap.min.css">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<script src="bootstrap/3/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery.cycle.all.js"></script> 
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/responsive.css"/>
+<link rel="canonical" href="https://www.hairtransplantnetwork.com/my404.asp"/>
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Error Encountered on /images/right_arrow.png</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<link rel="stylesheet" type="text/css" href="bootstrap/3/css/bootstrap.min.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="text/javascript" src="/m2scripts/mm2scripts.js"></script>
+<script type="text/javascript" src="/m2scripts/common.js"></script>
+<script language="javascript" type="text/javascript">
+<!--
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+//-->
+</script>
+<!-- InstanceEndEditable -->
+<!-- code for the modal pages -->
+<!-- code for the modal pages Non iOS -->
+<!-- iOS Modal - Fancybox -->
+<!-- Add jQuery library -->
+<meta http-equiv="Expires" content="30" />
+<meta http-equiv="Cache-control" content="public"  /> 
+<meta http-equiv="Cache-control" content="max-age=86400" />
+
+
+<link rel="alternate" href="https://www.hairtransplantnetwork.com/my404.asp" hreflang="en-us" />
+
+
+
+
+<script  type="text/javascript" src="/FancyBox/lib/jquery-1.10.2.min.js"></script>
+<!-- Add fancyBox main JS and CSS files -->
+<script type="text/javascript" src="/FancyBox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+<link rel="stylesheet" type="text/css" href="/FancyBox/source/jquery.fancybox.css?v=2.1.5" media="screen" />
+<link href="/css/fancyBox.css" rel="stylesheet" type="text/css" />
+<script async type="text/javascript" src="/Scripts/fancybox_essentials.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".fancybox").fancybox({
+		maxWidth	: 1500,
+		maxHeight	: 1500,
+		fitToView	: false,
+		width		: '95%',
+		height		: '95%',
+		autoSize	: false,
+		closeClick	: false,
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
+});
+</script>
+
+
+
+<!-- Google Analytics -->
+
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11671859-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11671859-1');
+</script>
+
+ 
+   <!-- load SQL Check script -->
+ 
+<!-- Run SQL Check -->
+
+
+<!-- Hotjar Tracking Code for HTN -->
+
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:503384,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5cf0b4637231abe6"></script>
+
+
+<!--[if IE]><script type="text/javascript" src="/dmx/lib/excanvas-compressed.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/dmx/widgets/Lightbox/styles/default/style.css" />
+<script type="text/javascript" src="/dmx/dmx.core.js"></script>
+<script type="text/javascript" src="/dmx/widgets/Lightbox/dmx.lightbox.js"></script>
+
+
+</head>
+<body class="inner-page">
+
+ 
+     <!-- mobile upd - 13-nov 2018 nav -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+	// display popup on home page when visitor come to a site
+	$(document).ready(function(){
+		var seconds,cancel;
+		var isshow = localStorage.getItem('isshow');
+		var isshow_newsletterPopup = localStorage.getItem('isshow_newsletterPopup');
+		
+		if (sessionStorage.getItem("on_load_counter") === null || sessionStorage.getItem("on_load_counter") == 'NaN') {
+			seconds = 0;
+			sessionStorage.setItem("on_load_counter", seconds);
+		} else {
+			seconds = sessionStorage.getItem('on_load_counter');
+		}
+		
+		function incrementSeconds() {
+			seconds = parseInt(seconds) + 1;
+			sessionStorage.setItem("on_load_counter", seconds);
+			if(seconds == 30 && isshow === null) {				
+				$('#myModal').modal();
+			}
+			if(seconds == 60 && isshow_newsletterPopup === null) {
+				if($('#myModal').is(':visible')){
+					$('#myModal').modal('hide');
+				}
+				$('#newsletterModal').modal();	
+			}
+		}
+		cancel = setInterval(incrementSeconds, 1000);
+
+		$('#chk_dnt_show').change(function() {
+			if(this.checked == true){
+				if (isshow === null) {
+					localStorage.setItem('isshow', 1);			
+				} 
+			}
+		});
+		
+		$('#chk_ndntshow').change(function() {
+			if(this.checked == true){
+				if (isshow_newsletterPopup === null) {					
+					localStorage.setItem('isshow_newsletterPopup', 1);			
+				} 
+			}
+		});
+		
+		$('#browse_website').click(function(){
+			jQuery('#myModal').modal('hide');
+		});
+		$('.btn_first_pop').click(function(){
+			jQuery('#newsletterModal').modal('hide');
+		});
+		$(".menu_nav").click(function(){
+			$(".menu_nav, .menu_edited, .menu_nav_data").toggleClass("c_active");
+		});
+		
+		$(document).on("click", '.menu_traet', function(){
+			$('.ul_sub_menu').slideUp();
+			$(this).parents('.li_main').find('.ul_sub_menu').stop(true, false).slideToggle();
+		});
+		
+		$(".li_inner_menu").click(function(){
+			$(this).find(".extra_menu").slideToggle();
+		});
+		
+	});
+	/*
+	window.onbeforeunload = function() {
+		var isshow1 = localStorage.getItem('isshow');
+		if(isshow1 === null){
+			localStorage.removeItem('on_load_counter');
+		}
+	};*/
+	$(document).on("click", '.mobile-menu a.dropdown-item', function(e){
+		var parent = $(this).parent('li');
+		
+		if(parent.find('.sub-menu')){	
+			var sub_menu = parent.find('.sub-menu');
+			var display = jQuery(sub_menu).css('display');	
+			if(display == 'block'){
+				jQuery(sub_menu).css('display','block');
+			}else{
+				jQuery(sub_menu).css('display','none');
+			}
+		}
+		var getUrl = $(this).data('ref');
+		if( getUrl != "#" && getUrl.startsWith("http")) {
+			e.preventDefault();
+			e.stopPropagation();
+			window.open(getUrl, '_blank');
+			$('.menu-opener').trigger('click');
+			return false;
+		}
+	});		
+</script>
+<div class="btn_cross">
+	<nav class="menu_nav">
+		<div class="menu_edited"></div>
+	</nav>
+ </div>
+
+<nav class="menu_nav_data">
+<ul class="ul_menu_cstm">
+	<li class="li_main">
+		<a href="javascript:void(0)" class="">
+			<div class="menu_traet">
+			  <h3>HAIR LOSS <br>TREATMENTS</h3>
+			</div>
+		</a>
+		<ul class="ul_sub_menu">
+			<li><a class="" href="/Hair-Loss-Treatments/male-hair-loss.asp">Hair Loss In Men</a></li>
+			<li><a class="" href="/Hair-Loss-Treatments/female-hair-loss.asp">Female Hair Loss</a></li>
+			<li class="li_inner_menu"><a class="" href="javascript:void(0)">Hair Transplant Surgery<span class="fa fa-angle-right"><span></a>
+				<ul class="extra_menu">
+					<li><a class="" href="/Hair-Loss-Treatments/hair-transplant.asp">Introduction</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/best-hair-transplant.asp">Getting the best results</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/hair-transplants.asp">Natural Results</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/dense-follicular-units.asp">The Ultimate Procedure</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/hair-surgery.asp">Are you a candidate?</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/hair-transplantation-steps.asp">Surgery - step by step</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/hair-transplant-postop.asp">What to expect after</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/hair-transplant-costs.asp">Hair Transplant Costs</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/hair-transplantation-FAQs.asp">Frequently Asked Questions</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/hair-transplant-history.asp">Surgical History</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/how-to-choose-a-clinic.asp">Choosing a Clinic</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/hair-transplant-repair.asp">Hair Transplant Repair</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/Platelet-Rich-Plasma-PRP-Hair-Transplant.asp">Platelet Rich Plasma (PRP)</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/ACell-Hair-Duplication.asp">ACell &amp; Hair Duplication</a></li>
+				  <li><a class="" href="/Hair-Loss-Treatments/other-surgical-procedures.asp">Other Hair Surgeries</a></li>    
+				</ul>
+			</li>
+			<li class="li_inner_menu"><a class="" href="javascript:void(0)">Follicular Unit Extraction <span class="fa fa-angle-right"><span></a>
+				<ul class="extra_menu">
+					<li><a class="" href="/Hair-Loss-Treatments/follicular-unit-extraction.asp">FUE Hair Transplant</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/FUE-vs-FUT.asp">FUT vs. FUE</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/FUE-hair-transplant-history.asp">History of FUE</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/FUE-extraction-devices.asp">Manual vs. Motorized Tools</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/FUE-sharp-vs-blunt-punches.asp">Sharp Versus Blunt Punches</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/Automated-FUE-hair-transplant.asp">Automated FUE Hair Transplant</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/Powered-SAFE-Scribe.asp">Powered SAFE Scribe</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/ARTAS-hair-restoration-FUE.asp">ARTAS Hair Restoration System</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/NeoGraft-hair-transplant.asp">NeoGraft Hair Transplant</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/uGraft-FUE-Hair-Transplant.asp">uGraft FUE Hair Transplant</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/Follicular-Unit-Extraction-Devices.asp">Other FUE Extraction Devices</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/FUE-hair-transplant-implantation-devices.asp">FUE Implantation Methods and Tools</a></li>       
+				</ul>
+			</li>
+			<li class="li_inner_menu"><a class="" href="javascript:void(0)">Non Surgical Treatments <span class="fa fa-angle-right"><span> </a>
+				<ul class="extra_menu">
+					 <li><a class=""  href="/Hair-Loss-Treatments/hair-loss-drugs.asp">Hair Loss Drugs</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/hair-replacement.asp">Hair Replacement</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/scalp-treatments.asp">Topical Treatments</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/thickners.asp">Cosmetic Cover Ups</a></li>
+				  <li><a class=""  href="/Hair-Loss-Treatments/hair-loss-scams.asp">Treatment Scams</a></li>   
+				</ul>
+			</li>
+			<li><a class="" href="/Hair-Loss-Treatments/hair-loss-research.asp">Hair Loss Research</a></li>
+		</ul>
+	</li>
+	
+	<li class="li_main">
+		<a href="javascript:void(0)" class="">
+			<div class="menu_traet">
+			  <h3>CONSULT A <br>PHYSICIAN</h3>
+			</div>
+		</a>
+		<ul class="ul_sub_menu">
+			<li><a class="" href="/Share-info/consult-select-surgeon.asp?SiteRef=HTN" title="Virtual Consultation" rel="DMXLightbox" rev="{width:650, height:850, preset:'minimalistic', plugin:'url'}">Ask a Doctor</a></li>
+			<li><a class="" href="/Consult-a-Physician/hair-transplant-surgeons.asp">Find a Quality Physician</a></li>
+			<li><a class="" href="/Consult-a-Physician/tips-on-hair-restoration-physicians.asp">How to Pick a Surgeon</a></li>
+			  <li><a class="" href="/Consult-a-Physician/our-hair-restoration-physicians.asp">How Physicians are Chosen</a></li>
+		</ul>
+	</li>
+	
+	<li class="li_main">
+		<a href="javascript:void(0)" class="">
+			<div class="menu_traet">
+			  <h3>SHARE WITH <br>PATIENTS</h3>
+			</div>
+		</a>
+		<ul class="ul_sub_menu">
+			<li><a class="" data-ref="https://www.hairrestorationnetwork.com" href="https://www.hairrestorationnetwork.com" target="_blank">Discussion Forum</a></li>
+			<li><a data-ref="https://www.hairrestorationnetwork.com/gallery/" class="" href="https://www.hairrestorationnetwork.com/gallery/" target="_blank">Members and Photos</a></li>
+			<li><a class="" href="/Share-Info/publishers-story.asp">The Publisher's Story</a></li>
+			<li><a class="" href="/news/hair-loss-news.asp">Hair Restoration News</a></li>
+			<li><a class="" data-ref="/blog/" href="/blog/" target="_blank">Patient Websites</a></li>
+			<li class="li_inner_menu"><a class="" href="javascript:void(0)">Hair Transplant Photos <span class="fa fa-angle-right"><span> </a>
+				<ul class="extra_menu">
+				<li><a class=""  href="/Share-info/hair-transplant-photos.asp">Main Photo Gallery</a></li>
+					<li><a class=""  href="/Share-Info/hairloss-photos-men.asp">Men</a></li>
+				  <li><a class=""  href="/Share-Info/hairloss-photos-female.asp">Women</a></li>
+				  <li><a class=""  href="/Share-Info/hairloss-photos.asp?ToS=repair">Repairs</a></li>
+				  <li><a class=""  href="/Share-Info/hairloss-photos-byClass.asp?Class=6&G=M">By Hair Loss Scale</a></li>
+				  <li><a class=""  href="/Share-Info/hairloss-photos.asp?ToS=other">Eyebrows, beards etc.</a></li>
+				  <li><a class=""  href="/Share-Info/hairloss-photos.asp?ToS=trplt&grp=0">Non-Caucasian</a></li>
+				  <li><a class=""  href="/Share-Info/hairloss-photos-by-type.asp?PRType=1">Follicular Unit Transplants via Strip</a></li>
+				  <li><a class=""  href="/Share-Info/hairloss-photos-by-type.asp?PRType=2">Follicular Unit Extraction</a></li>  
+				</ul>
+			</li>
+			<li  class="li_inner_menu"><a class="" href="javascript:void(0)">Hair Transplant Videos <span class="fa fa-angle-right"><span> </a>
+				<ul class="extra_menu">
+                <li><a class="" href="/Share-Info/hair-transplant-videos.asp">Main Video Gallery</a></li>
+					<li><a class=""  href="/Share-Info/video-gallery-set.asp?Gen=Male">Men</a></li>
+					
+				  <li><a class=""  href="/Share-Info/video-gallery-set.asp?Gen=Female">Women</a></li>
+				  <li><a class=""  href="/Share-Info/video-gallery-set.asp?ToS=Repair">Repairs</a></li>
+				  <li><a class=""  href="/Share-Info/video-gallery-set.asp?BClass=4&G=M">By Hair Loss Scale</a></li>
+				  <li><a class=""  href="/Share-Info/video-gallery-set.asp?ToS=Other">Eyebrows, beards etc.</a></li>
+				  <li><a class=""  href="/Share-Info/video-gallery-set-n.asp">Non-Caucasian</a></li>
+				  <li><a class=""  href="/Share-Info/video-gallery-set-tos.asp?SurgT=1">Follicular Unit Transplants via Strip</a></li>
+				  <li><a class=""  href="/Share-Info/video-gallery-set-tos.asp?SurgT=2">Follicular Unit Extraction</a></li>
+				</ul>
+			</li>
+			<li><a class="" href="/Share-Info/surgical-procedures.asp">Hair Transplant Surgical Videos</a></li>
+		    <li><a data-ref="https://www.regrowhair.com" class=""  href="https://www.regrowhair.com" target="_blank">Hair Loss Q&amp;A</a></li>
+		</ul>
+	</li>
+	
+	
+	
+</ul>
+
+
+</nav>
+
+    <!-- end of mobile nav -->
+
+   <!-- New top mob -->
+ <div class="mob-top container-fluid visible-xs">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <a href="/" class="logo-brand1">
+          <img alt="HTN-Logo-head" src="/image/HTN-Logo-head.png"/>
+        </a>
+        <div class="form-group">
+            
+         <form action="/search/results.asp" method="get">
+        <div class="form-group">
+				<input type="text" name="addsearch" placeholder="SEARCH" style="display:none;" class="form-control" id="email">
+				<a href="#" for="zoom_query" class="glyphicon glyphicon-search"></a>
+        </div>
+		</form>
+           
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--// New top mob -->
+  <div class="container-fluid bg-background">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-2 hidden-xs">
+           <form action="/search/results.asp" method="get">
+        <div class="form-group">
+			<div class="icon-addon search-box addon-md">
+				<input  ype="text" name="addsearch" placeholder="SEARCH"  class="form-control" id="email">
+				<label><a href="#" for="zoom_query" class="glyphicon glyphicon-search"></a></label>
+			</div>
+        </div>
+		</form>
+
+
+          </div>
+       
+
+<div class="col-xs-12 col-md-7 top-tag-wrap">
+         <!--<p class="top-tag-style"><em>
+        <a href="/Consult-a-Physician/hair-loss-doctors.asp">Surgeon Locator</a> | <a href="/Consult-a-Physician/hair-transplant-surgeons.asp">Hair Transplant Doctor List</a> </em></p> -->
+        
+       <p class="top-tag-style"><em>Community by and for patients to share experiences and recommendations</em></p>
+	   
+        </div>
+		
+		<div class="col-xs-12 col-md-3 top-multimedia-wrap">
+			        <div class="multimedia-box text-center">
+                <button type="button" onclick="my_func()"  class="btn btn-primary  mm-btn" >
+                <div class="name-btn">
+				<strong>Hair Loss Animations</strong>
+					
+                </div>
+                </button> 
+				 <ul class="cust-dropdown-menu custom_cls" id="custom_id" >
+					<li><a href="/MM_clips/clip1.asp" title="Baldness - What causes it?" rel="dmxLightbox" rev="{width:450, height:320, preset:'classic', group:'MMclip'}" >Baldness - What causes it?</a></li>
+					<li><a href="/MM_clips/clip2.asp"  title="DHT is the culprit" rel="dmxLightbox" rev="{width:450, height:320, preset:'classic', group:'MMclip'}">"DHT" is the main culprit</a></li>
+					<li><a href="/MM_clips/clip3.asp" title="How Transplants Work" rel="dmxLightbox" rev="{width:450, height:320, preset:'classic', group:'MMclip'}">How Transplants work</a></li>
+					<li><a href="/MM_clips/clip4.asp" title="How to achieve natural results" rel="dmxLightbox" rev="{width:450, height:320, preset:'classic', group:'MMclip'}" >The ultimate transplant</a></li>
+					<li><a href="/MM_clips/clip5.asp" title="What can be achieved" rel="dmxLightbox" rev="{width:450, height:320, preset:'classic', group:'MMclip'}" >What transplants can do</a></li>
+					<li><a href="/MM_clips/clip6.asp" title="Acheiving the appearance of fullness" rel="dmxLightbox" rev="{width:450, height:320, preset:'classic', group:'MMclip'}" >Recreating a full look</a></li>
+					<li><a href="/MM_clips/clip7.asp" title="Creating a hair restoration plan" rel="dmxLightbox" rev="{width:450, height:320, preset:'classic', group:'MMclip'}" >Creating a plan</a></li>
+					
+				</ul>
+        </div>
+			 
+             </div>
+<!-- 03-09-2017 script by Sid  MM-button -->  
+			<script>
+				
+				function my_func(){
+					
+					$('#custom_id').toggleClass('custom_cls');
+				}
+				
+				$('.multimedia-box.text-center button').on('click', function (event) {				
+					$(this).parent().toggleClass("open");
+				});	
+
+				$('body').on('click touchend', function (e) {
+					
+					if (!$('.menu').is(e.target) && $('.menu').has(e.target).length === 0 && $('.menu').has(e.target).length === 0)  {						
+						if($('.menu-opener').has(e.target).length === 0 && $(e.target).hasClass('menu-opener') == false){
+							$('.menu').removeClass('active');
+							$('.menu-opener').removeClass('active');
+							$('.menu-opener,.menu-opener-inner').removeClass('active');
+						}
+					}
+				
+					if (!$('.multimedia-box.text-center').is(e.target) && $('.multimedia-box.text-center').has(e.target).length === 0 && $('.multimedia-box.text-center.open').has(e.target).length === 0) {
+						$('.multimedia-box.text-center').removeClass('open');
+						$('#custom_id').addClass('custom_cls');
+					}
+				});
+				
+				
+			</script>
+<!-- 03-09-2017 script by Sid  MM-button -->  
+		
+        <!-- translate removed from here -->
+        
+      </div>
+    </div>
+  </div>
+
+  <!--slider-->
+  <div class="container-fluid bg-background-slider inner-page-logo hidden-xs">
+    <div class="container">
+      <a href="/" class="logo-brand  hidden-xs">
+        <img src="image/logo.png"/>
+      </a>
+      <div class="row">
+        <div class="col-xs-12 col-sm-offset-6 col-sm-6" style="position: relative;">
+          <div class="Search-database">
+            <h2>Researching a Physician<br />
+              or Treatment?</h2>
+            <h2><a href="https://www.hairrestorationnetwork.com/search/" target="_blank">Search our database</a></h2>
+            <p class="style-text"><em>For thousands of forum posts</em></p>
+          
+	      </div>
+
+		 <!-- Morph images -->
+         
+
+<style type="text/css">
+#headmorph{
+width: 208px;
+  height: 196px;
+ /*a width should be defined for transition to work*/
+border: 0px ;
+padding: 1px;
+overflow: hidden;
+}   
+</style>
+
+<!-- include Cycle plugin -->
+<script type="text/javascript" src="/scripts/cycle.all.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('.headmorph').cycle({
+		fx: 'fade',
+		speed:   3000, 
+    timeout: 3000, 
+    next:   'headmorph', 
+    pause:   6 // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+});
+</script>
+<div class="Slider-img">
+		<ul id="slider1">
+        
+          
+  <li><img src="//www.hairtransplantnetwork.com/upload/morphs/header-morphs-set-8.1.png" alt="Before Hair Transplant" class="headmorph" title="Before Hair Transplant" /></li>
+          <li><img src="//www.hairtransplantnetwork.com/upload/morphs/header-morphs-set-8.2.png" alt="After Hair Transplant" class="headmorph" title="After Hair Transplant" /> </li>
+            
+  <li><img src="//www.hairtransplantnetwork.com/upload/morphs/header-morphs-set-10.1.png" alt="Before Hair Transplant" class="headmorph" title="Before Hair Transplant" /></li>
+          <li><img src="//www.hairtransplantnetwork.com/upload/morphs/header-morphs-set-10.2.png" alt="After Hair Transplant" class="headmorph" title="After Hair Transplant" /> </li>
+            
+  <li><img src="//www.hairtransplantnetwork.com/upload/morphs/header-morphs-set-4.1.png" alt="Before Hair Transplant" class="headmorph" title="Before Hair Transplant" /></li>
+          <li><img src="//www.hairtransplantnetwork.com/upload/morphs/header-morphs-set-4.2.png" alt="After Hair Transplant" class="headmorph" title="After Hair Transplant" /> </li>
+            
+  <li><img src="//www.hairtransplantnetwork.com/upload/morphs/header-morphs-set-7.1.png" alt="Before Hair Transplant" class="headmorph" title="Before Hair Transplant" /></li>
+          <li><img src="//www.hairtransplantnetwork.com/upload/morphs/header-morphs-set-7.2.png" alt="After Hair Transplant" class="headmorph" title="After Hair Transplant" /> </li>
+            
+        </ul>
+      </div>
+        
+
+         <!-- end morphs-->
+		</ul>
+        </div>
+		</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <!--main-->
+  <div class="container-fluid box-style">
+      <div class="container">
+<div class="row menu-bar">
+          
+          <div class="col-xs-12 col-md-8">
+            <div class="box-menu web_menu hidden-xs">
+            <ul class="box-menu-1">
+               <div class="btn-group" id="main-dd-btn">
+                <li class="mega-dropdown">
+				<a href="javascript:;" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="true">
+							  
+                    <div class="onclick-menu">
+                      <h3>HAIR LOSS TREATMENTS</h3>
+                      <div class="box-arrow">
+                        <img src="/image/slider-left-arrow.png" class="arow" alt="slider-left-arrow"/>                        
+                      </div>
+                    </div>
+                  </a>
+                
+                  <ul class="dropdown-menu dropdown-menu-test">
+                    <li><a class="dropdown-item" href="/Hair-Loss-Treatments/male-hair-loss.asp">Hair Loss In Men</a></li>
+                    <li><a class="dropdown-item" href="/Hair-Loss-Treatments/female-hair-loss.asp">Female Hair Loss</a></li>
+                    <li class="sub-menu-main dropdown-submenu">
+					<a class="dropdown-item test" href="javascript:;">Hair Transplant Surgery<span class="fa fa-angle-right"></span></a>
+						<ul class="sub-menu dropdown-menu-test">
+						<li> <a class="dropdown-item" href="/Hair-Loss-Treatments/hair-transplant.asp">Introduction</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/best-hair-transplant.asp">Getting the best results</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/hair-transplants.asp">Natural Results</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/dense-follicular-units.asp">The Ultimate Procedure</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/hair-surgery.asp">Are you a candidate?</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/hair-transplantation-steps.asp">Surgery - step by step</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/hair-transplant-postop.asp">What to expect after</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/hair-transplant-costs.asp">Hair Transplant Costs</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/hair-transplantation-FAQs.asp">Frequently Asked Questions</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/hair-transplant-history.asp">Surgical History</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/how-to-choose-a-clinic.asp">Choosing a Clinic</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/hair-transplant-repair.asp">Hair Transplant Repair</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/Platelet-Rich-Plasma-PRP-Hair-Transplant.asp">Platelet Rich Plasma (PRP)</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/ACell-Hair-Duplication.asp">ACell &amp; Hair Duplication</a></li>
+                          <li><a class="dropdown-item" href="/Hair-Loss-Treatments/other-surgical-procedures.asp">Other Hair Surgeries</a></li>    
+						</ul>
+					</li>
+                    <li class="sub-menu-main dropdown-submenu"><a class="dropdown-item" href="javascript:;">Follicular Unit Extraction <span class="fa fa-angle-right"></span> </a>
+						<ul class="sub-menu">
+							 <li><a class="dropdown-item" href="/Hair-Loss-Treatments/follicular-unit-extraction.asp">FUE Hair Transplant</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/FUE-vs-FUT.asp">FUT vs. FUE</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/FUE-hair-transplant-history.asp">History of FUE</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/FUE-extraction-devices.asp">Manual vs. Motorized Tools</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/FUE-sharp-vs-blunt-punches.asp">Sharp Versus Blunt Punches</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/Automated-FUE-hair-transplant.asp">Automated FUE Hair Transplant</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/Powered-SAFE-Scribe.asp">Powered SAFE Scribe</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/ARTAS-hair-restoration-FUE.asp">ARTAS Hair Restoration System</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/NeoGraft-hair-transplant.asp">NeoGraft Hair Transplant</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/uGraft-FUE-Hair-Transplant.asp">uGraft FUE Hair Transplant</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/Follicular-Unit-Extraction-Devices.asp">Other FUE Extraction Devices</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/FUE-hair-transplant-implantation-devices.asp">FUE Implantation Methods and Tools</a></li>       
+						</ul>
+					</li>
+                    <li class="sub-menu-main dropdown-submenu"><a class="dropdown-item" href="javascript:;">Non Surgical Treatments <span class="fa fa-angle-right"></span> </a>
+						<ul class="sub-menu">
+						 <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/hair-loss-drugs.asp">Hair Loss Drugs</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/hair-replacement.asp">Hair Replacement</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/scalp-treatments.asp">Topical Treatments</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/thickners.asp">Cosmetic Cover Ups</a></li>
+                          <li><a class="dropdown-item"  href="/Hair-Loss-Treatments/hair-loss-scams.asp">Treatment Scams</a></li>   
+						</ul>
+					</li>
+                    <li><a class="dropdown-item" href="/Hair-Loss-Treatments/hair-loss-research.asp">Hair Loss Research</a></li>
+                  </ul>
+				 </li>
+                </div>
+                <div class="btn-group" id="main-dd-btn">
+                <li  class="mega-dropdown">
+                  <a href="javascript:;" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">
+                    <div class="onclick-menu">
+                      <h3>CONSULT A PHYSICIAN</h3>
+                      <div class="box-arrow">
+                        <img src="/image/slider-left-arrow.png" class="arow" alt="slider-left-arrow"/>                        
+                      </div>
+                    </div>
+                  </a>
+                
+                  <ul class="dropdown-menu dropdown-menu-test">
+                  <li><a class="dropdown-item" href="/Consult-a-Physician/hair-transplant-surgeons.asp">Recommended Physicians</a></li>
+                    <li><a class="dropdown-item" href="/Consult-a-Physician/hair-loss-doctors.asp">Find a Quality Physician</a></li>
+                    
+                    <li><a class="dropdown-item" href="/Consult-a-Physician/tips-on-hair-restoration-physicians.asp">How to Pick a Surgeon</a></li>
+                    <li><a class="dropdown-item" href="/Consult-a-Physician/our-hair-restoration-physicians.asp">How Physicians are Chosen</a></li>
+                    
+                  </ul>
+				  </li>
+                </div>
+                <div class="btn-group" id="main-dd-btn">
+                <li  class="mega-dropdown">
+                   <a href="javascript:;" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">
+                   	<div class="onclick-menu">
+                       <h3>SHARE WITH PATIENTS</h3>
+                       <div class="box-arrow">
+                         <img src="/image/slider-left-arrow.png" class="arow" alt="slider-left-arrow" />                         
+                       </div>
+                       </div>
+                   </a>
+    
+                  <ul class="dropdown-menu dropdown-menu-test">
+                  <li><a class="dropdown-item" href="https://hairrestorationnetwork.com/" target="_blank">Discussion Forum</a></li>	
+                  <li><a class="dropdown-item" href="https://www.hairrestorationnetwork.com/gallery/" target="_blank">Members and Photos</a></li>
+                    <li><a class="dropdown-item" href="/Share-Info/publishers-story.asp">The Publisher's Story</a></li>
+                    <li><a class="dropdown-item" href="/news/hair-loss-news.asp">Hair Restoration News</a></li>
+                    <li><a class="dropdown-item" href="/blog/">Patient Websites</a></li>
+                    <li class="sub-menu-main dropdown-submenu"><a class="dropdown-item" href="javascript:;">Hair Transplant Photos <span class="fa fa-angle-right"></span> </a>
+						<ul class="sub-menu">
+						<li><a class="dropdown-item "  href="/Share-info/hair-transplant-photos.asp">Main Photo Gallery</a></li>
+						  <li><a class="dropdown-item "  href="/Share-Info/hairloss-photos-men.asp">Men</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/hairloss-photos-female.asp">Women</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/hairloss-photos.asp?ToS=repair">Repairs</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/hairloss-photos-byClass.asp?Class=6&G=M">By Hair Loss Scale</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/hairloss-photos.asp?ToS=other">Eyebrows, beards etc.</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/hairloss-photos.asp?ToS=trplt&grp=0">Non-Caucasian</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/hairloss-photos-by-type.asp?PRType=1">Follicular Unit Transplants via Strip</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/hairloss-photos-by-type.asp?PRType=2">Follicular Unit Extraction</a></li>  
+						</ul>
+					</li>
+					<li  class="sub-menu-main dropdown-submenu"><a class="dropdown-item" href="javascript:;">Hair Transplant Videos <span class="fa fa-angle-right"></span> </a>
+						<ul class="sub-menu">
+                         <li><a class="dropdown-item"  href="/Share-Info/hair-transplant-videos.asp">Main Video Gallery</a></li>
+							<li><a class="dropdown-item"  href="/Share-Info/video-gallery-set.asp?Gen=Male">Men</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/video-gallery-set.asp?Gen=Female">Women</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/video-gallery-set.asp?ToS=Repair">Repairs</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/video-gallery-set.asp?BClass=4&G=M">By Hair Loss Scale</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/video-gallery-set.asp?ToS=Other">Eyebrows, beards etc.</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/video-gallery-set-n.asp">Non-Caucasian</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/video-gallery-set-tos.asp?SurgT=1">Follicular Unit Transplants via Strip</a></li>
+                          <li><a class="dropdown-item"  href="/Share-Info/video-gallery-set-tos.asp?SurgT=2">Follicular Unit Extraction</a></li>
+						</ul>
+					</li>
+				
+                   
+                    <li><a class="dropdown-item" href="/Share-Info/surgical-procedures.asp">Hair Transplant Surgical Videos</a></li>
+                    
+                    <li><a class="dropdown-item" href="https://www.regrowhair.com" target="_blank">Hair Loss Q&amp;A</a></li>
+                  
+                </ul>  
+				</li>
+                </div>
+            </ul>
+            </div>
+          </div>
+
+          <div class="col-xs-12 col-md-4 text-center">
+
+              <!-- VC button -->
+ <a  href="/Consult-a-Physician/hair-transplant-surgeons.asp" class="findhairphy"  title="Find a Physician" >
+
+ <div class="consult-btn">
+			  <div class="btn-text btn_add_new">
+                <span class="main-title">Find a Prescreened </span>
+                <span class="tag-title">Hair </span>
+				<span class="tag-title">Physician</span>
+				<span class="tag-title tag-title-area">in your area</span>
+			</div>
+</div>
+            
+</a>
+            
+          </div>
+        </div>
+<div class="row">
+        <!-- empty space -->
+        </div>
+
+        
+      </div>
+  </div>
+
+  
+
+ 
+  <div class="container">
+    <div class="row">
+            <div class="col-xs-12">
+        <h1 class="h1_head"><!-- InstanceBeginEditable name="PageTitle" -->Oops, sorry about that!<!-- InstanceEndEditable --></h1>
+        <!-- InstanceBeginEditable name="FullWidthContent" -->
+
+
+   
+  
+  
+  <strong>The page you   have requested has changed, or does not   exist.</strong></p>
+  <p>Please go   to the <a href="/">Hair Transplant Network home page</a>, or select from   the navigational menus above.</p>
+  <p>We   apologize for the inconvenience</p>
+  <p>Use the search box below to find what you may be looking for.</p>
+  <form method="get" action="/search/site-search.asp">
+
+          
+            <div align="left">
+              <input name="addsearch" class="p7tbsub" id="search" size="40" />
+			  <input name="search" type="submit" class="p7tbsub"  value="Site Search" />
+			 
+          	</div>
+		  </form>
+  <p>&nbsp;</p>
+</DIV>
+
+          <p></p>
+<!-- InstanceEndEditable --></div>
+      
+    </div>
+    </div>
+  </div>
+
+
+
+
+  <footer>
+    
+<div class="container-fluid bg-footer-color">
+	<div class="container">
+        <div class="row set-footer">
+			<div class="col-xs-12 col-md-4">
+				<form name="frmMailingList" class="newsletter"  action="//hairtransplantnetwork.us15.list-manage.com/subscribe/post?u=5a02d3b87f10fe840046d5e4d&amp;id=5fdcd2c7b2" method="post" target="_blank">
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5a02d3b87f10fe840046d5e4d_5fdcd2c7b2" tabindex="-1" value=""></div>
+					<div class="form-group">
+						<label class="sub-title-style">Newsletter signup</label>
+						<input type="email" value="" name="EMAIL"  id="mce-EMAIL" class="form-control" placeholder="Enter Your Email Here">						
+						<button type="submit" class="btn btn-primary">submit</button>
+						<input type="hidden" name="M" value="sub" id="add">
+					</div>
+				</form>
+				<div class="social-icon">
+					<label class="sub-title-style">join our community</label>
+					<ul>
+						<li><a href="https://www.facebook.com/HairTransplantNetwork" target="_blank"><span class="fa fa-facebook"></span></a></li>
+						<li><a href="https://twitter.com/HairLossChat/" target="_blank"><span class="fa fa-twitter"></span></a></li>
+						<li><a href="https://youtube.com/hairtransplantNetwork" target="_blank"><span class="fa fa-youtube"></span></a></li>
+						
+						<li><a target="_blank" href="https://www.linkedin.com/company/hair-transplant-network-group/"><span class="fa fa-linkedin"></span></a></li>
+						<li><a target="_blank" href="https://www.pinterest.com/hairtransplantnetwork/"><span class="fa fa-pinterest-p"></span></a></li>            
+						<li><a target="_blank" href="https://www.instagram.com/thehairtransplantnetwork/"><span class="fa fa-instagram"></span></a></li>
+						<li><a target="_blank" href="https://www.reddit.com/r/hairtransplantnetwork"><span class="fa fa-reddit"></span></a></li>						               
+					</ul>
+				</div>
+				<br /><br /><br />
+				<div class="languages">
+					<div id="google_translate_element"></div>
+				</div>          
+			</div>
+			<div class="col-xs-12 col-md-8">
+				<div class="features">
+					<ul>
+						  
+								<li>
+									<div class="img-photo">
+										<img src="https://www.hairtransplantnetwork.com/upload/ddddd.jpg" alt="bald-spots" />
+									</div>
+									<div class="img-text">								
+										
+									
+										<div class="replaceH2"><a href="https://www.hairrestorationnetwork.com/eve/189639-fue-turkey-17-years-old-nw3-2-help-choosing-clinic.html"target="_blank"><strong>Looking FUE 17 Years Old</strong></a></div>
+										
+									
+									  
+										<p>First of all I'd like to introduce myself, I'm from Europe, going to...</p>
+									
+										<div class="times">										
+											<span class="date"><i aria-hidden="true" class="fa fa-calendar"></i>5/8/2018 9:58:57 AM</span>
+										</div>
+									</div>
+									<div class="pin"><img src="/image/pin.png" alt="pin"></div>
+								</li>
+								
+								<li>
+									<div class="img-photo">
+										<img src="https://www.hairtransplantnetwork.com/upload/Dr_Arocha.jpg" alt="bald-spots" />
+									</div>
+									<div class="img-text">								
+										
+									
+										<div class="replaceH2"><a href="https://www.hairrestorationnetwork.com/eve/189255-1500-fut-dr-arocha.html"target="_blank"><strong>1500 FUT by Dr. Arocha</strong></a></div>
+										
+									
+									  
+										<p>View this hair transplant patient's result with only 1500 grafts via...</p>
+									
+										<div class="times">										
+											<span class="date"><i aria-hidden="true" class="fa fa-calendar"></i>5/8/2018 9:36:32 AM</span>
+										</div>
+									</div>
+									<div class="pin"><img src="/image/pin.png" alt="pin"></div>
+								</li>
+								
+								<li>
+									<div class="img-photo">
+										<img src="https://www.hairtransplantnetwork.com/upload/ff.jpg" alt="bald-spots" />
+									</div>
+									<div class="img-text">								
+										
+									
+										<div class="replaceH2"><a href="https://www.hairrestorationnetwork.com/eve/189630-dr-hasson-7410-grafts-fut-1-session-1-year-post-op.html"target="_blank"><strong>Dr. Hasson 7410 Grafts</strong></a></div>
+										
+									
+									  
+										<p>Vancouver area patient in his early 40’s. Above average donor hair,...</p>
+									
+										<div class="times">										
+											<span class="date"><i aria-hidden="true" class="fa fa-calendar"></i>5/8/2018 9:32:29 AM</span>
+										</div>
+									</div>
+									<div class="pin"><img src="/image/pin.png" alt="pin"></div>
+								</li>
+								
+								<li>
+									<div class="img-photo">
+										<img src="https://www.hairtransplantnetwork.com/upload/t.jpg" alt="bald-spots" />
+									</div>
+									<div class="img-text">								
+										
+									
+										<div class="replaceH2"><a href="https://www.hairrestorationnetwork.com/eve/189616-2149-fut-grafts-before-immediate-post-op-8-years-post-op.html"target="_blank"><strong>2149 grafts Dr. Charles</strong></a></div>
+										
+									
+									  
+										<p>Dr. Charles performed 2149 FUT grafts on this hair transplant patient...</p>
+									
+										<div class="times">										
+											<span class="date"><i aria-hidden="true" class="fa fa-calendar"></i>5/2/2018 12:45:50 PM</span>
+										</div>
+									</div>
+									<div class="pin"><img src="/image/pin.png" alt="pin"></div>
+								</li>
+								
+					</ul>
+				</div>
+			</div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid last-footer">
+	<div class="container">
+        <div class="row">
+			<div class="col-xs-12 col-md-3">
+				<p class="text-color-style">&copy; 2001 - 2019 Media Visions, Inc</p>
+			</div>
+			<div class="col-xs-12  col-md-9">
+				<div class="all_link">
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="">Site Map</a></li>
+						<li><a href="/blog" target="_blank">Hair Loss Websites</a></li>
+						
+						
+						<li><a href="/contact-request.asp?SiteRef=Hair%20Transplant%20Network"  rel="dmxLightbox" title="Contact Us" rev="{width:460, height:700, preset:'minimalistic', group:'contact'}">Contact Us</a></li>
+						<li><a href="/Consult-a-Physician/our-hair-restoration-physicians.asp">Physician Selection Standards</a></li>
+						<li><a href="/terms-of-usage.asp">Terms of Usage</a></li>
+						<li><a href="https://www.hairlosslearningcenter.org" target="_blank">Hair Loss Learning Center</a></li>
+					</ul>
+				</div>
+			</div>
+        </div>
+	</div>
+</div>
+ 
+<div class="modal fade pophtml" id="myModal" role="dialog">
+	<div class="modal-dialog">    
+		<!-- Modal content-->
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">&times;</button>
+			</div>
+			<div class="modal-body">
+				<div class="left-img">
+					<img src="../image/doc-pet.jpg" alt="doc-pet" />
+				</div>
+				<div class="right-content">
+					<h2>Consult a top Hair Physician online</h2>
+					<p>Physicians we recommend are carefully prescreened. Find one near you and consult online for free.</p>
+					<a href="../Consult-a-Physician/hair-transplant-surgeons.asp" class="yellowbtn">Consult With A Physician In Your Area</a>
+					<p>
+						<input type="checkbox" id="chk_dnt_show"><span>Don't show this again</span>
+					</p>
+					<a href="javascript:void(0);" class="bluebtn" id="browse_website">NOT NOW</a>
+				</div>
+			</div>
+		</div>      
+	</div>
+</div>	
+<div class="modal fade pophtml" id="newsletterModal" role="dialog">
+	<div class="modal-dialog">    
+		<!-- Modal content-->
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">&times;</button>
+			</div>
+			<div class="modal-body">
+				<div class="right-content">
+					<h2>get free updates</h2>
+					<p>Sign up for our newsletter below for weekly updates on what's new in hair restoration, impressive hair transplant results and hair loss treatments that really work.</p>	
+						<form name="frmMailingList" class="newsletter"  action="//hairtransplantnetwork.us15.list-manage.com/subscribe/post?u=5a02d3b87f10fe840046d5e4d&amp;id=5fdcd2c7b2" method="post" target="_blank">
+							<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5a02d3b87f10fe840046d5e4d_5fdcd2c7b2" tabindex="-1" value=""></div>
+							<div class="form-group">
+								<input type="email" value="" name="EMAIL"  id="mce-EMAIL" class="form-control" placeholder="Enter Your Email Here">						
+								<button type="submit" class="btn btn-primary">submit</button>
+								<input type="hidden" name="M" value="sub" id="add">
+							</div>
+						</form>						
+						<p class="p_show">
+							<input type="checkbox" id="chk_ndntshow"><span>Don't show this again</span>
+						</p>
+				</div>
+			</div>
+		</div>      
+	</div>
+</div>
+
+  </footer>
+  
+   <!-- Modal - not required -->
+  
+
+  <!--<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>-->
+  <!-- <script src="menu-opener.js"></script> -->
+  <script language="javascript">
+$(document).ready(function(){
+	$('#slider1, #slider2, #slider3, #slider4') .cycle({
+		fx: 'fade', //'scrollLeft,scrollDown,scrollRight,scrollUp',blindX, blindY, blindZ, cover, curtainX, curtainY, fade, fadeZoom, growX, growY, none, scrollUp,scrollDown,scrollLeft,scrollRight,scrollHorz,scrollVert,shuffle,slideX,slideY,toss,turnUp,turnDown,turnLeft,turnRight,uncover,ipe ,zoom
+		speed:  'slow', 
+   		timeout: 2000 
+	});
+});	
+</script>
+<script type="text/javascript">
+	// hide all elements
+	var elems = $(".Slider-img").hide();
+
+	// determine an index, presuming the lack of one
+	var keep = Math.floor(Math.random() * (elems.length - 1));
+
+	// fetch the old index to exclude it
+	var oldIndex = localStorage.getItem('36842935-last-index');
+
+	// excluding the old index, find a random new one and store its index
+	var newIndex = elems.not(':eq('+oldIndex+')').eq(keep).show().index();
+
+	// store the index for next time
+	localStorage.setItem('36842935-last-index', newIndex);
+</script>
+	<script type="text/javascript">
+		$(".menu-opener").click(function(){
+		$(".menu-opener, .menu-opener-inner, .menu").toggleClass("active");
+	});
+
+	</script>
+	<script type="text/javascript">
+		$(".onclick-menu").click(function (event) {
+			$(this).parents('.btn-group').find('.dropdown-menu').stop(true, false).slideToggle();
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(".onclick-menu").click(function (event) {
+			$(this).parents('.sub-menu-main').find('.sub-menu').stop(true, false).slideToggle();
+		});
+	</script>
+
+ <script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,es,en,fr,it,iw,nl,pt,ru,sv,tr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-11671859-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+
+
+
+<script language="javascript">
+	$(document).ready(function(){
+		$('#slider1').cycle({
+		fx: 'fade', //'scrollLeft,scrollDown,scrollRight,scrollUp',blindX, blindY, blindZ, cover, curtainX, curtainY, fade, fadeZoom, growX, growY, none, scrollUp,scrollDown,scrollLeft,scrollRight,scrollHorz,scrollVert,shuffle,slideX,slideY,toss,turnUp,turnDown,turnLeft,turnRight,uncover,ipe ,zoom
+		speed:  'slow', 
+   		timeout: 3000 
+	});
+});	
+</script>
+<script>
+$('.mob-top .glyphicon').click(function(){
+  $(this).prev('.form-control').slideToggle();
+});
+</script>
+<script>
+    $(window).scroll(function(){
+    var sticky = $('.box-style'),
+        scroll = $(window).scrollTop();
+        if($(window).width()>991){
+        	if (scroll >= 200) {
+			     sticky.addClass('fixed');
+			     sticky.next('.container').css('padding-top','140px'); 
+		    }
+		    else{
+			      sticky.removeClass('fixed');
+			      sticky.next('.container').css('padding-top','0');
+		    } 
+        }
+	
+  });
+  </script>
+</body>
+<!-- InstanceEnd --></html>
+
